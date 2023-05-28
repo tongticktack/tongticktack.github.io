@@ -1,5 +1,7 @@
+# step 이름
 name: deploy
 
+# where? branch 지정
 on:
   push:
     branches:
@@ -10,25 +12,31 @@ on:
       - master
       - main
   workflow_dispatch:
-
+# file write 권한 on
 permissions:
   contents: write
-
+# multiple steps
 jobs:
+  # web상 배포
   deploy:
+    # 운영체제 github이 제공하는 win, mac, ubuntu 중 ubuntu-latest
     runs-on: ubuntu-latest
     steps:
+    # deploy action 단계
     - name: Checkout 🛎️
       uses: actions/checkout@v3
+    # 젤키 실행 위한 ruby 설치
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.1'
         bundler-cache: true
     - name: Install and Build 🔧
+      # cli 명령어 실행
       run: |
         npm install -g mermaid.cli
         bundle exec jekyll build
+    # 마지막 단계, 홈페이지 배포
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
