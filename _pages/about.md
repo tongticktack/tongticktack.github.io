@@ -28,6 +28,7 @@ Welcome to my homepage! I am a senior at Sungkyunkwan University and a software 
 \
 my favorite quote is by __Lee Sunsin__
 I still have 12 ships left
+
 ____
 ## Skills
 ### programming languages
@@ -36,6 +37,7 @@ ____
 * Java
 * Python
 
+___
 ## Education
 1. Middle School : Graduated student from JP middel school
 2. High School : Graduated student from PD high school
