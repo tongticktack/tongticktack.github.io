@@ -39,7 +39,8 @@ ____
 ## Education
 1. Middle School : Graduated student from JP middel school
 2. High School : Graduated student from PD high school
-3. **University** : [SKKU](https://skku.edu "SKKU homepage") present
+3. University : [SKKU](https://skku.edu "SKKU homepage") present
+
 ---
 ## Awards
 2021 솔직챌린지 by 과기부 우수상 수상 (2,000,000 won)
