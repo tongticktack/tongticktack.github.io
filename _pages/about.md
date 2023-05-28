@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>성균관대학교 지관</p>
-    <p>수원시</p>
+    <p>SKKU Software</p>
+    <p>interested in visual computing and graphics</p>
+    <p>Welcome!</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -23,11 +24,10 @@ social: true  # includes social icons at the bottom of the page
 printf("Hello world!");
 ```
 ## Introduction
-> Welcome to my homepage! I am a senior at Sungkyunkwan University and a software major. discharged from the Marine Corps. I'm interested in visual computing and quantum computing.
+Welcome to my homepage! I am a senior at Sungkyunkwan University and a software major. discharged from the Marine Corps. I'm interested in visual computing and quantum computing.
 \
 my favorite quote is by __Lee Sunsin__
->> I still have 12 ships left
-<br>
+I still have 12 ships left
 ____
 ## Skills
 ### programming languages
