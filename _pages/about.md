@@ -18,30 +18,28 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# My Personal Homepage
+
 ```C
 printf("Hello world!");
 ```
 ## Introduction
-> Welcome to my homepage! I am a senior at Sungkyunkwan University and a software major. I graduated from PD High School, entered Sungkyunkwan University, discharged from the Marine Corps, and now I am in my first year as a reserve army. I'm interested in visual computing and quantum computing.
+> Welcome to my homepage! I am a senior at Sungkyunkwan University and a software major. discharged from the Marine Corps. I'm interested in visual computing and quantum computing.
 \
 my favorite quote is by __Lee Sunsin__
 >> I still have 12 ships left
-
 <br>
-
 ____
 ## Skills
-### The languages below are listed in the order in which I am confident.
+### programming languages
 * C
 * C++
 * Java
 * Python
-***
+
 ## Education
 1. Middle School : Graduated student from JP middel school
 2. High School : Graduated student from PD high school
-3. **University** : <img src="/logo.png" width="95px" height="22px">[SKKU](https://skku.edu "SKKU homepage") present
+3. **University** : [SKKU](https://skku.edu "SKKU homepage") present
 ---
 ## Awards
-2021 솔직챌린지 by 과기부 우수상 수상 (200,0000 won)
+2021 솔직챌린지 by 과기부 우수상 수상 (2,000,000 won)
